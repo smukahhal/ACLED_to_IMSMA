@@ -1,0 +1,52 @@
+{
+        "admin1_name":
+        {
+            "Chernihiv": "Chernihivska",
+            "Donetsk": "Donetska",
+            "Ivano-Frankivsk": "Ivano-Frankivska",
+            "Kharkiv": "Kharkivska",
+            "Kyiv": "Kyivska",
+            "Mykolaiv": "Mykolaivska",
+            "Rivne": "Rivnenska",
+            "Volyn": "Volynska",
+            "Zaporizhia": "Zaporizka",
+            "Kherson": "Khersonska",
+            "Zhytomyr": "Zhytomyrska",
+            "Poltava": "Poltavska",
+            "Sumy": "Sumska",
+            "Luhansk": "Luhanska",
+            "Crimea": "Avtonomna Respublika Krym",
+            "Kyiv City": "Kyiv",
+            "Dnipropetrovsk": "Dnipropetrovska",
+            "Odesa": "Odeska",
+            "Khmelnytskyi": "Khmelnytska",
+            "Cherkasy": "Cherkaska",
+            "Vinnytsia": "Vinnytska",
+            "Black Sea" : "Black Sea"
+        },
+        "admin1_code":
+        {
+            "Chernihiv": "UA74",
+            "Donetsk": "UA14",
+            "Ivano-Frankivsk": "UA26",
+            "Kharkiv": "UA63",
+            "Kyiv": "UA32",
+            "Mykolaiv": "UA48",
+            "Rivne": "UA56",
+            "Volyn": "UA07",
+            "Zaporizhia": "UA23",
+            "Kherson": "UA65",
+            "Zhytomyr": "UA18",
+            "Poltava": "UA53",
+            "Sumy": "UA59",
+            "Luhansk": "UA44",
+            "Crimea": "UA01",
+            "Kyiv City": "UA80",
+            "Dnipropetrovsk": "UA12",
+            "Odesa": "UA51",
+            "Khmelnytskyi": "UA68",
+            "Cherkasy": "UA71",
+            "Vinnytsia": "UA05",
+            "Black Sea" : "Black Sea"
+        }
+    } 
