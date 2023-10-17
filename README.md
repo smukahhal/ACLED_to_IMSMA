@@ -13,8 +13,8 @@ Make sure you've already git installed. Then you can run the following commands 
 OS X, Linux and Windows:
 
  ```
- git clone https://github.com/smukahhal/ACLED.git"
- cd ACLED-Data-Import
+ git clone https://github.com/smukahhal/ACLED_to_IMSMA.git"
+ cd ACLED_to_IMSMA
  ```
 This will have the system installed. 
 
