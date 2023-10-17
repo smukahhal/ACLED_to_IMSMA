@@ -19,11 +19,11 @@ OS X, Linux and Windows:
 This will have the system installed. 
 
 ### Import all libraries
-To import all libraries 
+To run the script, you will need to install important python librieris. You can use the `requirements.txt` to install them using `pip`.
 
 ```pip install -r requirement.txt```
 
-Check that you have the most recent library for `arcgis` imported. Be aware that when you install arcgis from Esri ArcGIS, it includes over 100 libraries many of them we will not use in this script.
+Check that you have the most recent library for `arcgis` is imported. Be aware that when you install arcgis from Esri ArcGIS, it comes with over 100 libraries, many of them we will not use in this script.
 
 
 ### Prepare your Enterprise Server.
@@ -106,7 +106,10 @@ When working with data, one of the first challenges is mapping the data to the a
 
 # References
 
-Armed Conflict Location & Event Data Project (ACLED); https://acleddata.com/
+* [GICHD - Information Management](https://www.gichd.org/our-response/information-management/)
+* [Armed Conflict Location & Event Data Project (ACLED)](https://acleddata.com/)
+* [ArcGIS API For Pythong - Feature Layer properties](https://developers.arcgis.com/python/guide/updating-feature-layer-properties/)
+
 
 # A word of advice
 Using this code for a long duration period may result in a large number of incidents and may affect your access to ACLED data. In other words use wisely.
